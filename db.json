@@ -1,0 +1,188 @@
+{
+    "Filmes": [
+      {
+        "id": 1,
+        "titulo": "The Batman",
+        "ano": "2022",
+        "direção": "Matt Reeves",
+        "duração": "2h56m",
+        "avaliação": "85/100",
+        "genero": "ação",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/38/The_Batman_poster.jpg",
+        "sinopse": "Batman (The Batman, no original) segue o segundo ano de Bruce Wayne (Robert Pattinson) como o herói de Gotham, causando medo nos corações dos criminosos da sombria cidade. Com apenas alguns aliados de confiança - Alfred Pennyworth (Andy Serkis) e o tenente James Gordon (Jeffrey Wright) - entre a rede corrupta de funcionários e figuras importantes do distrito, o vigilante solitário se estabeleceu como a única personificação da vingança entre seus concidadãos. Durante uma de suas investigações, Bruce acaba envolvendo a si mesmo e Gordon em um jogo de gato e rato, ao investigar uma série de maquinações sádicas em uma trilha de pistas enigmáticas estabelecida pelo vilão Charada. Quando o trabalho acaba o levando a descobrir uma onda de corrupção que envolve o nome de sua família, pondo em risco a própria integridade e as memórias que tinha sobre seu pai, Thomas Wayne, as evidências começam a chegar mais perto de casa, precisando, Batman, forjar novos relacionamentos, para assim desmascarar o culpado e fazer justiça ao abuso de poder e à corrupção que há muito tempo assola Gotham City.",
+        "comentarios": ""
+      },
+      {
+        "id": 2,
+        "titulo": "Fragmentado",
+        "ano": "2017",
+        "direção": "M. Night Shyamalan",
+        "duração": "1h57m",
+        "avaliação": "78/100",
+        "genero": "suspense",
+        "imagem": "https://br.web.img2.acsta.net/pictures/17/02/24/16/32/482058.jpg",
+        "sinopse": "Kevin possui 23 personalidades distintas e consegue alterná-las quimicamente em seu organismo apenas com a força do pensamento. Um dia, ele sequestra três adolescentes que encontra em um estacionamento. Vivendo em cativeiro, elas passam a conhecer as diferentes facetas de Kevin e precisam encontrar algum meio de escapar.",
+        "comentarios": ""
+      },
+      {
+        "id": 3,
+        "titulo": "Intocáveis",
+        "ano": "2011",
+        "direção": "Olivier Nakache, Éric Toledano",
+        "duração": "1h52m",
+        "avaliação": "76/100",
+        "genero": "drama",
+        "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/89/89/00/20143859.jpg",
+        "sinopse": "Em, Intocáveis, Philippe (François Cluzet) é um aristocrata rico que, após sofrer um grave acidente, fica tetraplégico. Precisando de um assistente, ele decide contratar Driss (Omar Sy), um jovem problemático que não tem a menor experiência em cuidar de pessoas no seu estado. Aos poucos, Driss aprende a função, apesar das diversas gafes que comete. Philippe, por sua vez, se afeiçoa cada vez mais ao jovem por ele não tratá-lo como um pobre coitado. De pouco em pouco a amizade entre ambos vai se estabelecendo, conhecendo melhor um o mundo do outro.",
+        "comentarios": ""
+      },
+      {
+        "id": 4,
+        "titulo": "O Labirinto do Fauno",
+        "ano": "2006",
+        "direção": "Guilhermo del Toro",
+        "duração": "1h59m",
+        "avaliação": "95/100",
+        "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/87/14/49/19872468.jpg",
+        "sinopse": "Em 1944, na Espanha, a jovem Ofélia e sua mãe doente chegam ao posto do novo marido de sua mãe, um sádico oficial do exército que está tentando reprimir uma guerrilheira. Enquanto explorava um labirinto antigo, Ofélia encontra o Pan fauno, que diz que a menina é uma lendária princesa perdida e que ela precisa completar três tarefas perigosas a fim de se tornar imortal.",
+        "comentarios": ""
+      },
+      {
+        "id": 5,
+        "titulo": "Interestelar",
+        "ano": "2014",
+        "direção": "Christopher Nolan",
+        "duração": "2h49m",
+        "avaliação": "73/100",
+        "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/3a/Interstellar_Filme.png",
+        "sinopse": "Após ver a Terra consumindo boa parte de suas reservas naturais, um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper (Matthew McConaughey) é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand (Anne Hathaway), Jenkins (Marlon Sanders) e Doyle (Wes Bentley), ele seguirá em busca de uma nova casa. Com o passar dos anos, sua filha Murph (Mackenzie Foy e Jessica Chastain) investirá numa própria jornada para também tentar salvar a população do planeta.",
+        "comentarios": ""
+      },
+      {
+        "id": 6,
+        "titulo": "Hereditário",
+        "ano": "2018",
+        "direção": "Ari Aster",
+        "duração": "2h7m",
+        "avaliação": "90/100",
+        "imagem": "https://br.web.img3.acsta.net/pictures/18/06/14/13/11/1751062.jpg",
+        "sinopse": "Após a morte da reclusa avó, a família Graham começa a desvendar algumas coisas. Mesmo após a partida da matriarca, ela permanece como se fosse uma sombra sobre a família, especialmente sobre a solitária neta adolescente, Charlie, por quem ela sempre manteve uma fascinação não usual. Com um crescente terror tomando conta da casa, a família explora lugares mais escuros para escapar do infeliz destino que herdaram.",
+        "comentarios": ""
+      },
+      {
+        "id": 7,
+        "titulo": "Anjos da Lei",
+        "ano": "2012",
+        "direção": "Phill Lord, Chris Miller",
+        "duração": "1h49m",
+        "avaliação": "85/100",
+        "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/89/61/19/20057844.jpg",
+        "sinopse": "Jenko (Channing Tatum) e Schmidt (Jonah Hill) estudaram juntos, mas jamais foram amigos. A situação muda quando se reencontram na academia de policiais, onde passam a ajudar um ao outro. Já formados, se envolvem em uma confusão ao tentar realizar a prisão de um traficante de drogas, que atuava no parque onde trabalhavam. Remanejados para uma divisão comandada pelo capitão Walters (Ice Cube), onde jovens policiais trabalham infiltrados, eles recebem a missão de desvendar quem é o fornecedor de uma nova e perigosa droga. De volta ao ambiente escolar e atuando sob nomes falsos, Jenko e Schmidt precisam se acostumar aos novos tempos sem perder o foco na tarefa que lhes foi incumbida.",
+        "comentarios": ""
+      },
+      {
+        "id": 8,
+        "titulo": "Viva - A Vida É Uma Festa",
+        "ano": "2017",
+        "direção": "Adrian Molina, Lee Unkrich",
+        "duração": "1h45m",
+        "avaliação": "97/100",
+        "imagem": "https://br.web.img3.acsta.net/pictures/17/12/07/11/33/0502209.jpg",
+        "sinopse": "Em Viva - A Vida é uma Festa, Miguel é um menino de 12 anos que quer muito ser um músico famoso, mas ele precisa lidar com sua família que desaprova seu sonho. Determinado a virar o jogo, ele acaba desencadeando uma série de eventos ligados a um mistério de 100 anos. A aventura, com inspiração no feriado mexicano do Dia dos Mortos, acaba gerando uma extraordinária reunião familiar.",
+        "comentarios": ""
+      },
+      {
+        "id": 9,
+        "titulo": "Ela",
+        "ano": "2013",
+        "direção": "Spike Jonze",
+        "duração": "2h6m",
+        "avaliação": "94/100",
+        "imagem": "https://br.web.img2.acsta.net/pictures/13/12/19/22/18/242683.jpg",
+        "sinopse": "Em Ela, Theodore (Joaquin Phoenix) é um escritor solitário, que acaba de comprar um novo sistema operacional para seu computador. Para a sua surpresa, ele acaba se apaixonando pela voz deste programa informático, dando início a uma relação amorosa entre ambos. Esta história de amor incomum explora a relação entre o homem contemporâneo e a tecnologia.",
+        "comentarios": ""
+      },
+      {
+        "id": 10,
+        "titulo": "As Aventuras de Pi",
+        "ano": "2012",
+        "direção": "Ang Lee",
+        "duração": "2h7m",
+        "avaliação": "86/100",
+        "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/91/30/40/20328542.jpg",
+        "sinopse": "Pi Patel (Suraj Sharma) é filho do dono de um zoológico localizado em Pondicherry, na Índia. Após anos cuidando do negócio, a família decide vender o empreendimento devido à retirada do incentivo dado pela prefeitura local. A ideia é se mudar para o Canadá, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terrível tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espaço disponível com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.",
+        "comentarios": ""
+      },
+      {
+        "id": 11,
+        "titulo": "O Lobo de Wall Street",
+        "ano": "2013",
+        "direção": "Martin Scorsese",
+        "duração": "3h",
+        "avaliação": "80/100",
+        "imagem": "https://leiturafilmica.com.br/wp-content/uploads/2015/02/o-lobo-de-wall-street.jpg",
+        "sinopse": "Durante seis meses, Jordan Belfort (Leonardo DiCaprio) trabalhou duro em uma corretora de Wall Street, seguindo os ensinamentos de seu mentor Mark Hanna (Matthew McConaughey). Quando finalmente consegue ser contratado como corretor da firma, acontece o Black Monday, que faz com que as bolsas de vários países caiam repentinamente. Sem emprego e bastante ambicioso, ele acaba trabalhando para uma empresa de fundo de quintal que lida com papéis de baixo valor, que não estão na bolsa de valores. É lá que Belfort tem a ideia de montar uma empresa focada neste tipo de negócio, cujas vendas são de valores mais baixos mas, em compensação, o retorno para o corretor é bem mais vantajoso. Ao lado de Donnie (Jonah Hill) e outros amigos dos velhos tempos, ele cria a Stratton Oakmont, uma empresa que faz com que todos enriqueçam rapidamente e, também, levem uma vida dedicada ao prazer.",
+        "comentarios": ""
+      },
+      {
+        "id": 12,
+        "titulo": "John Wick: Um Novo Dia Para Matar",
+        "ano": "2017",
+        "direção": "Chad Stahelski",
+        "duração": "2h2m",
+        "avaliação": "89/100",
+        "genero": "ação",
+        "imagem": "https://br.web.img3.acsta.net/pictures/17/01/10/15/05/404753.jpg",
+        "sinopse": "Após recuperar seu carro, John Wick (Keanu Reeves) acredita que enfim poderá se aposentar. Entretanto, a reaparição de Santino D'Antonio (Riccardo Scarmacio) atrapalha seus planos. Dono de uma promissória em nome de Wick, por ele usada para deixar o posto de assassino profissional da Alta Cúpula, Santino cobra a dívida existente e insiste para que ele mate sua própria irmã, Gianna (Claudia Gerini).",
+        "comentarios": ""
+      }
+    ],
+    "Planos": [
+      {
+        "id": 1,
+        "plano": "Plano Básico",
+        "descrição": "Adicionar, editar, comentar e dar notas aos filmes.",
+        "armazenamento": "500MG de armazenamento.",
+        "vantagens": "Sorteio de Gift Card da Netflix.",
+        "descontos": "5% de descontos na Netflix.",
+        "valor": "Por apenas R$9,90."
+      },
+      {
+        "id": 2,
+        "plano": "Plano Premium",
+        "descrição": "Adicionar, editar, comentar e dar notas aos filmes.",
+        "armazenamento": "1GB de armazenamento.",
+        "vantagens": "Sorteio de ingressos para o cinema.",
+        "descontos": "10% de descontos na Netflix.",
+        "valor": "Por apenas R$19,90."
+      }
+    ],
+    "Usuarios": [
+      {
+        "id": 1,
+        "usuario": "usuario1",
+        "senha": "12345"
+      },
+      {
+        "id": 2,
+        "usuario": "usuario2",
+        "senha": "54321"
+      },
+      {
+        "id": 3,
+        "usuario": "usuario3",
+        "senha": "56789"
+      },
+      {
+        "id": 4,
+        "usuario": "usuario4",
+        "senha": "98765"
+      },
+      {
+        "id": 5,
+        "usuario": "admin",
+        "senha": "admin",
+        "role": "admin"
+      }
+    ]
+  }

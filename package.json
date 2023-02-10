@@ -1,0 +1,26 @@
+{
+    "name": "projeto-json-server",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+      "json-server": "^0.17.1"
+    },
+    "description": "Desenvolver um servidor json (Json-server) onde irá conter 3 rotas com 4+ dados nas quais o usuário poderá realizar o `GET`, `POST`, `PUT`, `DELETE`.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/DiegoBernardes95/Projeto-Json-server.git"
+    },
+    "keywords": [
+      "Json-server"
+    ],
+    "author": "Diego Bernardes",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/DiegoBernardes95/Projeto-Json-server/issues"
+    },
+    "homepage": "https://github.com/DiegoBernardes95/Projeto-Json-server#readme"
+  }
